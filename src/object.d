@@ -4909,6 +4909,7 @@ public import core.internal.array.equality : __equals;
 public import core.internal.array.casting: __ArrayCast;
 public import core.internal.array.concatenation : _d_arraycatnTXImpl;
 public import core.internal.array.construction : _d_arrayctor;
+public import core.internal.array.assign : _d_arrayassign_l, _d_arrayassign_r;
 public import core.internal.array.construction : _d_arraysetctor;
 public import core.internal.array.capacity: _d_arraysetlengthTImpl;
 
